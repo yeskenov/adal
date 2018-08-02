@@ -1,0 +1,2305 @@
+{
+	"eNumbers": [
+		{ 
+			"number":"Е100", 
+			"status":"Халяль",
+			"description":"Куркумины (Curcumins), Куркумин (Curcumin). Натуральный краситель из Curcuma longa и других видов. Турмерик (Turmeric) - порошок корневища куркумы. "
+		}, 
+		{ 
+			"number":"Е101", 
+			"status":"Халяль",
+			"description":"Рибофлавины (Riboflavins), Рибофлавин (Riboflavin). На- триевая соль рибофлавин 5-фосфат (Riboflavin 5-phosphate sod- ium). Краситель."
+		}, 
+		{ 
+			"number":"Е102", 
+			"status":"Халяль",
+			"description":"Тартразин (Tartrazine). Краситель."
+		},
+		{ 
+			"number":"Е103", 
+			"status":"Халяль",
+			"description":"Алканет, Алканин (Alkanet). Краситель."
+		},
+		{ 
+			"number":"Е104", 
+			"status":"Халяль",
+			"description":"Желтый хинолиновый (Quinoline Yellow). Краситель."
+		},
+		{ 
+			"number":"Е107", 
+			"status":"Халяль",
+			"description":"Желтый 2G (Yellow 2G). Краситель."
+		},
+		{ 
+			"number":"Е110", 
+			"status":"Халяль",
+			"description":"Желтый «солнечный закат» (Sunset Yellow FCF). Краси-
+			тель."
+		},
+		{ 
+			"number":"Е120", 
+			"status":"Харам",
+			"description":"Кармины (Carmines). Краситель. харам. Производится из
+			насекомых."
+		},
+		{ 
+			"number":"Е122", 
+			"status":"Халяль",
+			"description":"Азорубин, Кармуазин (Azorubine). Краситель."
+		},
+		{ 
+			"number":"Е104", 
+			"status":"Халяль",
+			"description":"Желтый хинолиновый (Quinoline Yellow). Краситель."
+		},
+		{ 
+			"number":"Е124", 
+			"status":"Халяль",
+			"description":"Понсо 4R, Пунцовый 4R (Ponceau 4R). Краситель."
+		},
+		{ 
+			"number":"Е128", 
+			"status":"Халяль",
+			"description":"Красный 2G (Red 2G). Краситель."
+		},
+		{ 
+			"number":"Е129", 
+			"status":"Халяль",
+			"description":"Красный очаровательный АС (Allura red AC). Краситель."
+		},
+		{ 
+			"number":"Е131", 
+			"status":"Халяль",
+			"description":"Синий патентованный V (Patent blue V). Краситель."
+		},
+		{ 
+			"number":"Е132", 
+			"status":"Сомнительное",
+			"description":"Индигокармин (Indigotine). Краситель. сомнительное. Может быть животного происхождения."
+		},
+		{ 
+			"number":"Е133", 
+			"status":"Халяль",
+			"description":"Синий блестящий FCF, бриллиантовый голубой FCF (Br- illiant blue FCF). Краситель."
+		},
+		{ 
+			"number":"Е140", 
+			"status":"Халяль",
+			"description":"Хлорофилл (Сhlоrорhill). Краситель."
+		},
+		{ 
+			"number":"Е141", 
+			"status":"Халяль",
+			"description":"Хлорофилла медные комплексы (Copper Chlorophylls), Хлорофилла комплекс медный (Chlorophyll copper complex), Медного комплекса хлорофиллина натриевая и калиевая соли (Chlorophyllin copper complex, sodium and potassium salts). Краситель."
+		},
+		{ 
+			"number":"Е142", 
+			"status":"Халяль",
+			"description":"Зеленый S (Green S). Краситель."
+		},
+		{ 
+			"number":"Е143", 
+			"status":"Халяль",
+			"description":"Зеленый прочный FCF (Fast green FCF). Краситель."
+		},
+		{ 
+			"number":"Е150а", 
+			"status":"Халяль",
+			"description":"Сахарный колер I простой (Caramel I - Plain). Краситель."
+		},
+		{ 
+			"number":"Е150b", 
+			"status":"Халяль",
+			"description":"Сахарный колер II, полученный по «щелочно-сульфит- ной» технологии (Caramel II - Caustic sulphite process). Краситель."
+		},
+		{ 
+			"number":"Е150с", 
+			"status":"Халяль",
+			"description":"Сахарный колер III, полученный по «аммиачной» техно- логии (Caramel III - Ammonia process). Краситель."
+		},
+		{ 
+			"number":"Е150d", 
+			"status":"Халяль",
+			"description":"Сахарный колер IV, полученный по «аммиачно-сульфит- ной» технологии (Caramel IV - Ammonia-sulphite process). Краситель."
+		},
+		{ 
+			"number":"Е151", 
+			"status":"Халяль",
+			"description":"Черный блестящий PN, бриллиантовый черный PN (Brilliant black PN). Краситель."
+		},
+		{ 
+			"number":"Е152", 
+			"status":"Халяль",
+			"description":"Уголь (Carbon black (hydrocarbon). Краситель."
+		},
+		{ 
+			"number":"Е153", 
+			"status":"Халяль",
+			"description":"Уголь растительный (Vegetable carbon). Краситель."
+		},
+		{ 
+			"number":"Е155", 
+			"status":"Халяль",
+			"description":"Коричневый HT (Brown HT). Краситель."
+		},
+		{ 
+			"number":"Е160a", 
+			"status":"Халяль",
+			"description":"Каротины (Carotenes). Бета-Каротин синтетический (Beta-carotene synthetic). Экстракты натуральных каротинов (Natural extracts). Краситель."
+		},
+		{ 
+			"number":"Е160b", 
+			"status":"Халяль",
+			"description":"Аннато экстракты (Annato extracts). Краситель."
+		},
+		{ 
+			"number":"Е160c", 
+			"status":"Халяль",
+			"description":"Маслосмолы паприки (Paprika oleoresins). Краситель."
+		},
+		{ 
+			"number":"Е160d", 
+			"status":"Халяль",
+			"description":"Ликопин (Lycopene). Краситель."
+		},
+
+		{ 
+			"number":"Е160e", 
+			"status":"Халяль",
+			"description":"бета-Апокаротиновый альдегид (Beta-apo-carotenal). Краситель."
+		},
+
+		{ 
+			"number":"Е160f", 
+			"status":"Халяль",
+			"description":"бета-апо-8-каротиновой кислоты метиловый или этило- вый эфиры (Beta-apo-8@-carotenoic Acid, Methyl or ethyl ester). Краситель."
+		},
+
+		{ 
+			"number":"Е161a", 
+			"status":"Халяль",
+			"description":"Флавоксантин (Flavoxanthin). Краситель."
+		},
+
+		{ 
+			"number":"Е161b", 
+			"status":"Халяль",
+			"description":"Лютеин (Lutein). Краситель."
+		},
+
+		{ 
+			"number":"Е161c", 
+			"status":"Халяль",
+			"description":"Криптоксантин (Kryptoxanthin). Краситель."
+		},
+
+		{ 
+			"number":"Е161d", 
+			"status":"Халяль",
+			"description":"Рубиксантин (Rubixanthin). Краситель."
+		},
+
+		{ 
+			"number":"Е161e", 
+			"status":"Халяль",
+			"description":"Виолоксантин (Violoxanthin). Краситель."
+		},
+
+		{ 
+			"number":"Е161f", 
+			"status":"Халяль",
+			"description":"Родоксантин (Rhodoxanthin). Краситель."
+		},
+
+		{ 
+			"number":"Е161g", 
+			"status":"Халяль",
+			"description":"Кантаксантин (Canthaxanthin). Краситель."
+		},
+
+		{ 
+			"number":"Е162", 
+			"status":"Халяль",
+			"description":"Красный свекольный (Веет red). Краситель."
+		},
+		{ 
+			"number":"Е163", 
+			"status":"Халяль",
+			"description":"Антоцианы (Anthocyanins), Экстракт из кожицы винограда (Grape skin extract), Экстракт из черной смородины (Blackcurrant extract). Краситель."
+		},
+
+		{ 
+			"number":"Е170", 
+			"status":"Халяль",
+			"description":"Карбонаты кальция (Calcium carbonates), Карбонат кальция (Calcium carbonate), Гидрокарбонат кальция (Calcium hydrogen carbonate). Поверхностный краситель, добавка, препятствующая слеживанию и комкованию, стабилизатор."
+		},
+
+		{ 
+			"number":"Е171", 
+			"status":"Халяль",
+			"description":"Диоксид титана (Titanium dioxide). Краситель."
+		},
+
+		{ 
+			"number":"Е172", 
+			"status":"Халяль",
+			"description":"Оксиды железа (Iron oxides), Оксид железа (+2,+3), Черная (Iron oxide, black), Оксид железа (+3), Красная (Iron oxide, red), Желтая (Iron oxide, yellow). Краситель."
+		},
+
+		{ 
+			"number":"Е161c", 
+			"status":"Халяль",
+			"description":"Желтый хинолиновый (Quinoline Yellow). Краситель."
+		},
+
+		{ 
+			"number":"Е174", 
+			"status":"Халяль",
+			"description":"Серебро (Silver). Краситель."
+		},
+
+		{ 
+			"number":"Е175", 
+			"status":"Халяль",
+			"description":"Золото (Gold). Краситель."
+		},
+
+		{ 
+			"number":"Е181", 
+			"status":"Халяль",
+			"description":"Танины пищевые (Tannins, food grade). Краситель, стабилизатор, эмульгатор."
+		},
+
+		{ 
+			"number":"Е182", 
+			"status":"Халяль",
+			"description":"Орсейл, Орсин (Orchil). Краситель."
+		},
+
+		{ 
+			"number":"Е200", 
+			"status":"Халяль",
+			"description":"Сорбиновая кислота (Sorbic acid). Консервант."
+		},
+		{ 
+			"number":"Е201", 
+			"status":"Халяль",
+			"description":"Сорбат натрия (Sodium sorbate). Консервант."
+		},
+
+		{ 
+			"number":"Е202", 
+			"status":"Халяль",
+			"description":"Сорбат калия (Potassium sorbate). Консервант."
+		},
+
+		{ 
+			"number":"Е203", 
+			"status":"Халяль",
+			"description":"Сорбат кальция (Calcium sorbate). Консервант."
+		},
+
+		{ 
+			"number":"Е209", 
+			"status":"Халяль",
+			"description":"Пара-оксибензойной кислоты гептиловый эфир (Heptyl p-Hydroxybenzoate). Консервант."
+		},
+
+		{ 
+			"number":"Е210", 
+			"status":"Халяль",
+			"description":"Бензойная кислота (Benzoic Acid). Консервант."
+		},
+
+		{ 
+			"number":"Е211", 
+			"status":"Халяль",
+			"description":"Бензоат натрия (Sodium benzoate). Консервант"
+		},
+
+		{ 
+			"number":"Е212", 
+			"status":"Халяль",
+			"description":"Желтый хинолиновый (Quinoline Yellow). Краситель."
+		},
+
+		{ 
+			"number":"Е213", 
+			"status":"Халяль",
+			"description":"Бензоат кальция (Calcium benzoate). Консервант."
+		},
+
+		{ 
+			"number":"Е214", 
+			"status":"Халяль",
+			"description":"Пара-Оксибензойной кислоты этиловый эфир (Ethyl p-Hydroxybenzoate). Консервант."
+		},
+
+		{ 
+			"number":"Е215", 
+			"status":"Халяль",
+			"description":"Пара-Оксибензойной кислоты этилового эфира натриевая соль (Sodium ethyl p-Hydroxybenzoate). Консервант."
+		},
+		{ 
+			"number":"Е218", 
+			"status":"Халяль",
+			"description":"Пара-Оксибензойной кислоты метиловый эфир (Methyl p-Hydroxybenzoate). Консервант."
+		},
+
+		{ 
+			"number":"Е219", 
+			"status":"Халяль",
+			"description":"Пара-Оксибензойной кислоты метилового эфира натриевая соль (Sodium methyl p-Hydroxybenzoate). Консервант."
+		},
+
+		{ 
+			"number":"Е220", 
+			"status":"Халяль",
+			"description":"Диоксид серы (Sulphur dioxide). Консервант, антиокислитель."
+		},
+
+		{ 
+			"number":"Е221", 
+			"status":"Халяль",
+			"description":"Сульфит натрия (Sodium sulphite). Консервант, антиокислитель."
+		},
+
+		{ 
+			"number":"Е222", 
+			"status":"Халяль",
+			"description":"Гидросульфит натрия (Sodium hydrogen sulphite). Консервант, антиокислитель."
+		},
+
+		{ 
+			"number":"Е223", 
+			"status":"Халяль",
+			"description":"Пиросульфит натрия (Sodium metabisulphite). Консервант, антиокислитель, отбеливающий агент.."
+		},
+
+		{ 
+			"number":"Е224", 
+			"status":"Халяль",
+			"description":"Пиросульфит калия (Potassium metabisulphit). Консервант, антиокислитель."
+		},
+
+		{ 
+			"number":"Е225", 
+			"status":"Халяль",
+			"description":"Сульфит калия (Potassium sulphite). Консервант, антиокислитель."
+		},
+
+		{ 
+			"number":"Е226", 
+			"status":"Халяль",
+			"description":"Сульфит кальция (Calcium sulphite). Консервант, антиокислитель."
+		},
+
+		{ 
+			"number":"Е227", 
+			"status":"Халяль",
+			"description":"Гидросульфит кальция (Calcium hydrogen sulphite). Консервант, антиокислитель."
+		},
+		{ 
+			"number":"Е228", 
+			"status":"Халяль",
+			"description":"Гидросульфит (бисульфит) калия (Potassium bisulphite). Консервант, антиокислитель."
+		},
+
+		{ 
+			"number":"Е230", 
+			"status":"Халяль",
+			"description":"Дифенил (Diphenyl). Консервант."
+		},
+
+		{ 
+			"number":"Е231", 
+			"status":"Халяль",
+			"description":"Орто-Фенилфенол (orto-phenylphenol). Консервант."
+		},
+
+		{ 
+			"number":"Е232", 
+			"status":"Халяль",
+			"description":"Орто-Фенилфенола натриевая соль (О-Phenylphenol Sodium). Консервант."
+		},
+
+		{ 
+			"number":"Е234", 
+			"status":"Халяль",
+			"description":"Низин (Nisin). Консервант."
+		},
+
+		{ 
+			"number":"Е235", 
+			"status":"Халяль",
+			"description":"Пимарицин, Натамицин (Pimaricin, natamycin). Консервант."
+		},
+
+		{ 
+			"number":"Е236", 
+			"status":"Халяль",
+			"description":"Муравьиная кислота (Formic acid). Консервант."
+		},
+
+		{ 
+			"number":"Е237", 
+			"status":"Халяль",
+			"description":"Формиат натрия (Sodium formate). Консервант."
+		},
+
+		{ 
+			"number":"Е238", 
+			"status":"Халяль",
+			"description":"Формиат кальция (Calcium formate). Консервант."
+		},
+
+		{ 
+			"number":"Е239", 
+			"status":"Халяль",
+			"description":"Гексаметилентетрамин (Hexamethylene tetramine). Консервант."
+		},
+		{ 
+			"number":"Е241", 
+			"status":"Халяль",
+			"description":"Гваяковая камедь (ОЦМ guaicum). Консервант."
+		},
+
+		{ 
+			"number":"Е242", 
+			"status":"Халяль",
+			"description":"Диметилдикарбонат (Велькорин) (Dimethyl dicarbonate). Консервант."
+		},
+
+		{ 
+			"number":"Е249", 
+			"status":"Халяль",
+			"description":"Нитрит калия (Potassium nitrite). Консервант, фиксатор окраски."
+		},
+
+		{ 
+			"number":"Е250", 
+			"status":"Халяль",
+			"description":"Нитрит натрия (Sodium nitrite). Консервант, фиксатор окраски."
+		},
+
+		{ 
+			"number":"Е251", 
+			"status":"Халяль",
+			"description":"Нитрат натрия (Sodium nitrate). Консервант, фиксатор окраски."
+		},
+
+		{ 
+			"number":"Е252", 
+			"status":"Халяль",
+			"description":"Нитрат калия (Роtаssiuм nitrate). Консервант, фиксатор окраски."
+		},
+
+		{ 
+			"number":"Е260", 
+			"status":"Халяль",
+			"description":"Уксусная кислота ледяная (Acetic acid glacial). Консервант, регулятор кислотности."
+		},
+
+		{ 
+			"number":"Е261", 
+			"status":"Халяль",
+			"description":"Ацетаты калия (Potassium acetates), Ацетат калия (Potassium acetate), Диацетат калия (Potassium diacetate). Консервант, регулятор кислотности."
+		},
+
+		{ 
+			"number":"Е262", 
+			"status":"Халяль",
+			"description":"Ацетаты натрия (Sodium acetates), Ацетат натрия (Sodium acetate), Диацетат натрия (Sodium diacetate). Консервант, регулятор кислотности."
+		},
+
+		{ 
+			"number":"Е263", 
+			"status":"Халяль",
+			"description":"Ацетат кальция (Calcium acetates). Консервант, стабилизатор, регулятор кислотности."
+		},
+		{ 
+			"number":"Е264", 
+			"status":"Халяль",
+			"description":"Ацетат аммония (Ammonium acetate). Регулятор кислотности."
+		},
+
+		{ 
+			"number":"Е265", 
+			"status":"Халяль",
+			"description":"Дегидрацетовая кислота (Dehydro acetic acid). Консервант."
+		},
+
+		{ 
+			"number":"Е266", 
+			"status":"Халяль",
+			"description":"Дегидрацетат натрия (Sodium dehydroacetate). Консервант."
+		},
+
+		{ 
+			"number":"Е270", 
+			"status":"Халяль",
+			"description":"Молочная кислота L-, D-, и DL- (Lactic acid,L-, D- and DL-). Регулятор кислотности."
+		},
+
+		{ 
+			"number":"Е280", 
+			"status":"Халяль",
+			"description":"Пропионовая кислота (Propionic acid). Консервант."
+		},
+
+		{ 
+			"number":"Е281", 
+			"status":"Халяль",
+			"description":"Пропионат натрия (Sodium propionate). Консервант."
+		},
+
+		{ 
+			"number":"Е282", 
+			"status":"Халяль",
+			"description":"Пропионат кальция (Calcium propionate). Консервант."
+		},
+
+		{ 
+			"number":"Е283", 
+			"status":"Халяль",
+			"description":"Пропионат калия (Potassium propionate). Консервант."
+		},
+
+		{ 
+			"number":"Е290", 
+			"status":"Халяль",
+			"description":"Диоксид углерода (Carbon dioxide). Газ для насыщения напитков."
+		},
+
+		{ 
+			"number":"Е296", 
+			"status":"Халяль",
+			"description":"Яблочная кислота (Malic acid, DL-). Регулятор кислотности."
+		},
+		{ 
+			"number":"Е297", 
+			"status":"Халяль",
+			"description":"Фумаровая кислота (Fumaric acid). Регулятор кислотности."
+		},
+		{ 
+			"number":"Е300", 
+			"status":"Халяль",
+			"description":"Аскорбиновая кислота, L- (Ascorbic asid, L-). Aнтиокислитель."
+		},
+
+		{ 
+			"number":"Е301", 
+			"status":"Халяль",
+			"description":"Аскорбат натрия (Sodium ascorbate). Aнтиокислитель."
+		},
+
+		{ 
+			"number":"Е302", 
+			"status":"Халяль",
+			"description":"Аскорбат кальция (Calcium ascorbate). Aнтиокислитель."
+		},
+
+		{ 
+			"number":"Е303", 
+			"status":"Халяль",
+			"description":"Аскорбат калия (Potassium ascorbate). Aнтиокислитель"
+		},
+
+		{ 
+			"number":"Е304", 
+			"status":"Халяль",
+			"description":"Аскорбилпальмитат (Ascorbyl palmitate). Aнтиокислитель."
+		},
+
+		{ 
+			"number":"Е305", 
+			"status":"Халяль",
+			"description":"Аскорбилстеарат (Ascorbyl stearate). Aнтиокислитель."
+		},
+
+		{ 
+			"number":"Е306", 
+			"status":"Халяль",
+			"description":"Токоферолы, концентрат смеси (Mixed Tocopherols concentrate). Aнтиокислитель"
+		},
+
+		{ 
+			"number":"Е307", 
+			"status":"Халяль",
+			"description":"Aльфа-Токоферол (Alpha-tog opherol). Aнтиокислитель."
+		},
+
+		{ 
+			"number":"Е308", 
+			"status":"Халяль",
+			"description":"Гамма-Токоферол синтетический (Syntethic Gamma-tocopherol). Aнтиокислитель."
+		},
+
+		{ 
+			"number":"Е309", 
+			"status":"Халяль",
+			"description":"Дельта-Токоферол синтетический (Syntethic Delta-tocopherol). Aнтиокислитель."
+		},
+		{ 
+			"number":"Е310", 
+			"status":"Халяль",
+			"description":"Пропилгаллат (Propyl gallate). Aнтиокислитель."
+		},
+
+		{ 
+			"number":"Е311", 
+			"status":"Халяль",
+			"description":"Октилгаллат (Octyl gallate). Aнтиокислитель."
+		},
+
+		{ 
+			"number":"Е312", 
+			"status":"Халяль",
+			"description":"Додецилгаллат (Dodecyl gallate). Aнтиокислитель."
+		},
+
+		{ 
+			"number":"Е314", 
+			"status":"Халяль",
+			"description":"Гваяковая смола (Guaiac resin). Aнтиокислитель."
+		},
+
+		{ 
+			"number":"Е315", 
+			"status":"Халяль",
+			"description":"Изоаскорбиновая (эриторбовая) кислота (Isoascorbic acid, Erythorbic acid). Aнтиокислитель."
+		},
+
+		{ 
+			"number":"Е316", 
+			"status":"Халяль",
+			"description":"Изоаскорбат натрия (Sodium isoascorbate). Aнтиокисли- тель."
+		},
+
+		{ 
+			"number":"Е317", 
+			"status":"Халяль",
+			"description":"Изоаскорбат калия (Potassim isoascorbate). Aнтиокислитель."
+		},
+
+		{ 
+			"number":"Е318", 
+			"status":"Халяль",
+			"description":"Изоаскорбат кальция (Calcium isoascorbate). Aнтиокислитель."
+		},
+
+		{ 
+			"number":"Е319", 
+			"status":"Халяль",
+			"description":"Трет-Бутилгидрохинон (Tertiary-butylhydroquinone). Aнтиокислитель."
+		},
+
+		{ 
+			"number":"Е320", 
+			"status":"Халяль",
+			"description":"Бутилгидроксианизол (Butylated hydroxyanisole). Aнтиокислитель."
+		},
+		{ 
+			"number":"Е321", 
+			"status":"Халяль",
+			"description":"Бутилгидрокситолуол, «Ионол» (Butylated hydroxytoluene. Aнтиокислитель."
+		},
+
+		{ 
+			"number":"Е322", 
+			"status":"Халяль",
+			"description":"Лецитины, фосфатиды (Lecithins). Aнтиокислитель, эмульгатор."
+		},
+
+		{ 
+			"number":"Е323", 
+			"status":"Халяль",
+			"description":"Аноксомер (Anoxomer). Aнтиокислитель."
+		},
+
+		{ 
+			"number":"Е325", 
+			"status":"Халяль",
+			"description":"Лактат натрия (Sodium lactate). Синергист антиокислителя, влагоудерживающий агент, наполнитель."
+		},
+
+		{ 
+			"number":"Е326", 
+			"status":"Халяль",
+			"description":"Лактат калия (Potassium lactate). Синергист антиокислителя, регулятор кислотности."
+		},
+
+		{ 
+			"number":"Е327", 
+			"status":"Халяль",
+			"description":"Лактат кальция (Calcium lactate). Регулятор кислотности, улучшитель муки и хлеба."
+		},
+
+		{ 
+			"number":"Е328", 
+			"status":"Халяль",
+			"description":"Лактат аммония (Ammonium lactate). Регулятор кислотности, улучшитель муки и хлеба"
+		},
+
+		{ 
+			"number":"Е329", 
+			"status":"Халяль",
+			"description":"Лактат магния, DL- (Magnesium lactate, DL-). Регулятор ислотности, улучшитель муки и хлеба."
+		},
+
+		{ 
+			"number":"Е330", 
+			"status":"Халяль",
+			"description":"Лимонная кислота (Citric acid). Регулятор кислотности, антиокислитель, комплексообразователь."
+		},
+
+		{ 
+			"number":"Е331", 
+			"status":"Халяль",
+			"description":" Цитраты натрия (Sodium citrates), Цитрат натрия 1-замещенный (Sodium dihydrogen citrate), Цитрат натрия 2-замещенный (Disodium monohydrogen citrate), Цитрат натрия 3-замещенный (Trisodium citrate). Регулятор кислотности, эмульгатор, стбилизатор, комплексообразователь."
+		},
+		{ 
+			"number":"Е332", 
+			"status":"Халяль",
+			"description":"Цитраты калия (Potassium citrates), Цитрат калия 2-замещенный (Potassium dihydrogen citrate), Цитрат калия 3-замещенный (Tripotassium citrate). Регулятор кислотности, стабилизатор, комплексообразователь."
+		},
+
+		{ 
+			"number":"Е333", 
+			"status":"Халяль",
+			"description":"Цитраты кальция (Calcium citrates). Регулятор кислотности, стабилизатор консистенции, комплексообразователь."
+		},
+
+		{ 
+			"number":"Е334", 
+			"status":"Халяль",
+			"description":"Винная кислота, L(+)- (Tartaric acid, L(+)-). Регулятор кислотности, синергист антиокислителей, комплексообразователь."
+		},
+
+		{ 
+			"number":"Е335", 
+			"status":"Халяль",
+			"description":"Тартраты натрия (Sodium tartrates), Тартрат натрия 1-замещенный (Monosodium tartrate), Тартрат натрия 2-замещенный (Disodium tartrate). Стабилизатор, комплексообразователь."
+		},
+
+		{ 
+			"number":"Е336", 
+			"status":"Халяль",
+			"description":"Тартраты калия (Potassium tartrates), Тартрат калия 1-замещенный (Monopotassium tartrate), Тартрат калия 2-замещенный (Dipotassium tartrate). Стабилизатор, комплексообразователь."
+		},
+
+		{ 
+			"number":"Е337", 
+			"status":"Халяль",
+			"description":"Тартрат калия-натрия (Potassium sodium tartrate). Стабилизатор, комплексообразователь."
+		},
+
+		{ 
+			"number":"Е338", 
+			"status":"Халяль",
+			"description":"Орто-Фосфорная кислота (Orthophosphoric acid). Регулятор кислотности, синергист антиокислителей."
+		},
+
+		{ 
+			"number":"Е339", 
+			"status":"Халяль",
+			"description":"Фосфаты натрия (Sodium phosphates), Орто-Фосфат на- трия 1-замещенный (Monosodium orthophosphate), Орто-Фосфат натрия 2-замещенный (Disodium orthophosphate), Орто-Фосфат натрия 3-замещенный (Trisodium orthophosphate). Регулятор кислотности, эмульгатор, текстуратор, влагоудерживающий агент, стабилизатор, комплексообразователь."
+		},
+
+		{ 
+			"number":"Е340", 
+			"status":"Халяль",
+			"description":"Фосфаты калия (Potassium phosphates), Орто-Фосфат ка- лия 1-замещенный (Monopotassium orthophosphate), Орто-Фосфат калия 2-замещенный (Dipotassium orthophosphate), Орто-Фосфат калия 3-замещенный (Tripotassium orthophosphate). Регулятор кислотности, эмульгатор, влагоудерживающий агент, стабилизатор, комплексообразователь."
+		},
+
+		{ 
+			"number":"Е341", 
+			"status":"Халяль",
+			"description":"Фосфаты кальция (Calcium phosphates), Орто-Фосфат кальция 1-замещенный (Monocalcium orthophosphate), Орто-Фосфат кальция 2-замещенный (Dicalcium orthophosphate), Орто-Фосфат кальция 3-замещенный (Tricalcium orthophosphate). Регулятор кислотности улучшитель муки и хлеба, стабилизатор, отвердитель, текстуратор, разрыхлитель, добавка, препятствующая слеживанию и комкованию, влагоудерживающий агент."
+		},
+		{ 
+			"number":"Е342", 
+			"status":"Халяль",
+			"description":"Фосфаты аммония (Ammonium phosphates), Орто-Фосфат аммония 1-замещенный (Monoammonium orthophosphate), Орто-Фосфат аммония 2-замещенный (Diammonium orthophosphate). Регулятор кислотности, улучшитель муки и хлеба."
+		},
+
+		{ 
+			"number":"Е343", 
+			"status":"Халяль",
+			"description":"Фосфаты магния (Magnesium phosphates), Орто-Фосфат магния 1-замещенный (Monomagnesium orthophosphate), Орто- Фосфат магния 2-замещенный (Dimagnesium orthophosphate), Орто-Фосфат магния 3-замещенный (Trimagnesium orthophosphate). Регулятор кислотности, добавка, препятствующая слеживанию и комкованию."
+		},
+
+		{ 
+			"number":"Е345", 
+			"status":"Халяль",
+			"description":"Цитрат магния (Magnesium citrate). Регулятор кислотности."
+		},
+
+		{ 
+			"number":"Е349", 
+			"status":"Халяль",
+			"description":"Малат аммония (Ammonium malate). Регулятор кислотности."
+		},
+
+		{ 
+			"number":"Е350", 
+			"status":"Халяль",
+			"description":"Малаты натрия (Sodium malates), Малат натрия 1-замещенный (Sodium hydrogen malate), Малат натрия (Sodium malate). Регулятор кислотности, влагоудерживающий агент."
+		},
+
+		{ 
+			"number":"Е351", 
+			"status":"Халяль",
+			"description":"Малаты калия (Potassium malates), Малат калия 1-замещенный (Potassium hydrogen malate), Малат калия (Potassium malate). Регулятор кислотности."
+		},
+
+		{ 
+			"number":"Е352", 
+			"status":"Халяль",
+			"description":"Малаты кальция (Calcium malates), Малат кальция 1-замещенный (Calcium hydrogen malate), Малат кальция (Calcium malate). Регулятор кислотности."
+		},
+
+		{ 
+			"number":"Е353", 
+			"status":"Халяль",
+			"description":"Мета-Винная кислота (Metatartaric acid). Регулятор кислотности."
+		},
+
+		{ 
+			"number":"Е354", 
+			"status":"Халяль",
+			"description":"Тартрат кальция (Calcium tartrate). Регулятор кислотности."
+		},
+
+		{ 
+			"number":"Е355", 
+			"status":"Халяль",
+			"description":"Адипиновая кислота (Adipic acid). Регулятор кислотности."
+		},
+		{ 
+			"number":"Е356", 
+			"status":"Халяль",
+			"description":"Адипаты натрия (Sodium adipates). Регулятор кислотности."
+		},
+
+		{ 
+			"number":"Е357", 
+			"status":"Халяль",
+			"description":"Адипаты калия (Potassium adipates). Регулятор кислотности."
+		},
+
+		{ 
+			"number":"Е359", 
+			"status":"Халяль",
+			"description":"Адипаты аммония (Ammonium adipates). Регулятор кислотности."
+		},
+
+		{ 
+			"number":"Е363", 
+			"status":"Халяль",
+			"description":"Янтарная кислота (Succinic acid). Регулятор кислотности."
+		},
+
+		{ 
+			"number":"Е365", 
+			"status":"Халяль",
+			"description":"Фумараты натрия (Sodium fumarates). Регулятор кислотности."
+		},
+
+		{ 
+			"number":"Е366", 
+			"status":"Халяль",
+			"description":"Фумараты калия (Potassium fumarates). Регулятор кислотности. "
+		},
+
+		{ 
+			"number":"Е367", 
+			"status":"Халяль",
+			"description":"Фумараты кальция (Calcium fumarates). Регулятор кислотности."
+		},
+
+		{ 
+			"number":"Е368", 
+			"status":"Халяль",
+			"description":"Фумараты аммония (Ammonium fumarate). Регулятор кислотности."
+		},
+
+		{ 
+			"number":"Е375", 
+			"status":"Халяль",
+			"description":"Никотиновая кислота (Nicotinic acid). Стабилизатор цвета."
+		},
+
+		{ 
+			"number":"Е380", 
+			"status":"Халяль",
+			"description":"Цитраты аммония (Ammonium citrates). Регулятор кислотности."
+		},
+		{ 
+			"number":"Е381", 
+			"status":"Халяль",
+			"description":"Цитрат аммония-железа (Ferric ammonium citrate). Регулятор кислотности."
+		},
+
+		{ 
+			"number":"Е383", 
+			"status":"Халяль",
+			"description":"Глицерофосфат кальция (Calcium Glycerophosphate). Стабилизатор, загуститель."
+		},
+
+		{ 
+			"number":"Е384", 
+			"status":"Халяль",
+			"description":"Изопропилцитратная смесь (Isopropyl citrates). Добавка препятствующая слеживанию и комкованию."
+		},
+
+		{ 
+			"number":"Е385", 
+			"status":"Халяль",
+			"description":"Этилендиаминтетраацетат кальция-натрия (Calcium disodium ethylenediamine-tetra-acetate). Антиокислитель, консервант, комплексообразователь."
+		},
+
+		{ 
+			"number":"Е386", 
+			"status":"Халяль",
+			"description":"Этилендиаминтетраацетат динатрий (Disodium ethylene-diamine-tetra-acetate). Синергист антиокислителя, консервант, комплексообразователь."
+		},
+
+		{ 
+			"number":"Е387", 
+			"status":"Халяль",
+			"description":"Оксистеарин (Oxystearin). Антиокислитель, комплексообразователь."
+		},
+
+		{ 
+			"number":"Е391", 
+			"status":"Халяль",
+			"description":"Фитиновая кислота (Phytic acid). Aнтиокислитель."
+		},
+
+		{ 
+			"number":"Е400", 
+			"status":"Халяль",
+			"description":"Альгиновая кислота (Alginic acid). Загуститель, стабили- затор."
+		},
+
+		{ 
+			"number":"Е401", 
+			"status":"Халяль",
+			"description":"Альгинат натрия (Sodium alginate). Загуститель, стабили- затор."
+		},
+
+		{ 
+			"number":"Е402", 
+			"status":"Халяль",
+			"description":"Альгинат калия (Potassium alginate). Загуститель, стабилизатор."
+		},
+		{ 
+			"number":"Е403", 
+			"status":"Халяль",
+			"description":"Альгинат аммония (Ammonium alginate). Загуститель, стабилизатор."
+		},
+
+		{ 
+			"number":"Е404", 
+			"status":"Халяль",
+			"description":"Альгинат кальция (Calcium alginate). Загуститель, стабилизатор, пеногаситель."
+		},
+
+		{ 
+			"number":"Е405", 
+			"status":"Халяль",
+			"description":"Пропиленгликольальгинат (Propylene glycol alginate). Загуститель, эмульгатор."
+		},
+		{ 
+			"number":"Е406", 
+			"status":"Халяль",
+			"description":"Агар (Agar). Загуститель, стабилизатор, желирующий агент."
+		},
+
+		{ 
+			"number":"Е407", 
+			"status":"Халяль",
+			"description":"Каррагинан и его натриевая, калиевая, аммонийная соли, включая фурцеллеран (Carrageenan and its Na, К, NH4 salts includes furcellaran). Загуститель, стабилизатор, желирующий агент."
+		},
+
+		{ 
+			"number":"Е407a", 
+			"status":"Халяль",
+			"description":"Каррагинан из водорослей Euchema (Carrageenan pes-Processed euchema seaweed). Загуститель, стабилизатор, желирующий агент."
+		},
+		{ 
+			"number":"Е409", 
+			"status":"Халяль",
+			"description":"Арабиногалактан (Arabinogalactan). Загуститель, стабилизатор, желирующий агент."
+		},
+
+		{ 
+			"number":"Е410", 
+			"status":"Халяль",
+			"description":"Камедь рожкового дерева (Carob bean gum). Загуститель, стабилизатор."
+		},
+
+		{ 
+			"number":"Е411", 
+			"status":"Халяль",
+			"description":"Овсяная камедь (Oat gum). Загуститель, стабилизатор."
+		},
+		{ 
+			"number":"Е412", 
+			"status":"Халяль",
+			"description":"Гуаровая камедь (Guar gum). Загуститель, стабилизатор."
+		},
+
+		{ 
+			"number":"Е413", 
+			"status":"Халяль",
+			"description":"Трагакант камедь (Tragacanth gum). Загуститель, стабилизатор, эмульгатор."
+		},
+
+		{ 
+			"number":"Е414", 
+			"status":"Халяль",
+			"description":"Гуммиарабик (Gum arabic, Acacia gum). Загуститель, стабилизатор."
+		},
+		{ 
+			"number":"Е415", 
+			"status":"Халяль",
+			"description":"Ксантановая камедь (Xantan gum). Загуститель, стабилизатор."
+		},
+
+		{ 
+			"number":"Е416", 
+			"status":"Халяль",
+			"description":"Карайи камедь (Karaya gum). Загуститель, стабилизатор."
+		},
+
+		{ 
+			"number":"Е417", 
+			"status":"Халяль",
+			"description":"Тары камедь (Таrа gum). Загуститель, стабилизатор."
+		},
+		{ 
+			"number":"Е418", 
+			"status":"Халяль",
+			"description":"Геллановая камедь (Gellan gum). Загуститель, стабилизатор, желирующий агент."
+		},
+
+		{ 
+			"number":"Е419", 
+			"status":"Халяль",
+			"description":"Гхатти камедь (Gum ghatti). Загуститель, стабилизатор, желирующий агент."
+		},
+
+		{ 
+			"number":"Е420", 
+			"status":"Халяль",
+			"description":"Сорбит и сорбитовый сироп (Sorbitol and sorbitol syrup). Подсластитель, влагоудерживающий агент, комплексообразователь, текстуратор, эмульгатор."
+		},
+		{ 
+			"number":"Е421", 
+			"status":"Халяль",
+			"description":"Маннит (Manmtol). Подсластитель, добавка, препятствующая слеживанию и комкованию."
+		},
+		{ 
+			"number":"Е422", 
+			"status":"Сомнительное",
+			"description":"Глицерин (Glycerol). Влагоудерживающий агент, загуститель. сомнительное. Может быть произведен из животного сырья."
+		},
+
+		{ 
+			"number":"Е425", 
+			"status":"Халяль",
+			"description":"Конжак (Конжаковая мука (Konjac, Konjac flour), Конжаковая камедь (Konjac gum), Конжаковый глюкоманнан (Konjac glucomannane). Загуститель."
+		},
+
+		{ 
+			"number":"Е430", 
+			"status":"Халяль",
+			"description":"Полиоксиэтилен (8) стеарат (Polyoxyethylene (8) stearate). Эмульгатор."
+		},
+		{ 
+			"number":"Е431", 
+			"status":"Халяль",
+			"description":"Полиоксиэтилен (40) стеарат Polyoxyethylene (40) stearate). Эмульгатор."
+		},
+
+		{ 
+			"number":"Е432", 
+			"status":"Халяль",
+			"description":"Полиоксиэтилен (20) сорбитан монолаурат, Твин 20 (Polyoxyethylene (20) sorbitan monolaurate). Эмульгатор."
+		},
+
+		{ 
+			"number":"Е433", 
+			"status":"Халяль",
+			"description":"Полиоксиэтилен (20) сорбитан моноолеат, Твин 80 (Polyoxyethylene (20) sorbitan monooleate. Эмульгатор."
+		},
+		{ 
+			"number":"Е434", 
+			"status":"Халяль",
+			"description":"Полиоксиэтилен (20) сорбитан монопальмитат, Твин 40 (Polyoxyethylene (20) sorbitan monopalmitate). Эмульгатор."
+		},
+
+		{ 
+			"number":"Е435", 
+			"status":"Халяль",
+			"description":"Полиоксиэтилен (20) сорбитан моностеарат, Твин 60 (Polyoxyethylene (20) sorbitan monostearate). Эмульгатор."
+		},
+
+		{ 
+			"number":"Е436", 
+			"status":"Халяль",
+			"description":"Полиоксиэтилен (20) сорбитан три-стеарат (Polyoxyethylene (20) sorbitan trjstearate). Эмульгатор."
+		},
+		{ 
+			"number":"Е440", 
+			"status":"Халяль",
+			"description":"Пектины (Pectins). Загуститель, стабилизатор, желирующий агент."
+		},
+
+		{ 
+			"number":"Е441", 
+			"status":"Харам",
+			"description":"Желатин (Gelatin). Загуститель, стабилизатор, желирующий агент. харам. Производится из животного сырья."
+		},
+
+		{ 
+			"number":"Е442", 
+			"status":"Халяль",
+			"description":"Аммонийные соли фосфатидиловой кислоты (Ammonium salts of phosphatidic acid). Эмульгатор."
+		},
+		{ 
+			"number":"Е444", 
+			"status":"Халяль",
+			"description":"Сахарозы ацетат изобутират (Sucrose acetate, isobutirat). Эмульгатор, стабилизатор."
+		},
+
+		{ 
+			"number":"Е445", 
+			"status":"Халяль",
+			"description":"Эфиры глицерина и смоляных кислот (Glycerol esters of wood resin). Эмульгатор, стабилизатор."
+		},
+
+		{ 
+			"number":"Е446", 
+			"status":"Халяль",
+			"description":"Сукцистеарин (Succistearin). Эмульгатор."
+		},
+		{ 
+			"number":"Е450", 
+			"status":"Халяль",
+			"description":"Пирофосфаты (Diphosphates), Дигидропирофосфат натрия (Disodium diphosphate), Моногидропирофосфат натрия (Trisodium diphosphate), Пирофосфат натрия (Tetrasodium diphosphate), Дигидропирофосфат калия (Dipotassium diphosphate), Пирофосфат калия (Tetrapotassium diphosphate), Пирофосфат кальция (Dicalcium diphosphate), Дигидропирофосфат кальция (Calcium dihydrogen diphosphate), Пирофосфат магния (Dimagnesium diphosphate). Эмульгатор, стабилизатор, регулятор кислотности, разрыхлитель, комплексообразователь, влагоудерживающий агент."
+		},
+
+		{ 
+			"number":"Е451", 
+			"status":"Халяль",
+			"description":"Трифосфаты (Triphosphates), Трифосфат натрия (5-замещенный) (Pentasodium triphosphate), Трифосфат калия (5-замещенный) (Pentapotassium triphosphate). Комплексообразователь, регулятор кислотности, текстуратор."
+		},
+
+		{ 
+			"number":"Е452", 
+			"status":"Халяль",
+			"description":"Полифосфаты (Polyphosphates), Полифосфат натрия (Sodium рolyphosphate), Полифосфат калия (Potassium polyphosphate), Полифосфат натрия-кальция (Sodium calcium polyphosphate), Полифосфаты кальция (Calcium polyphosphates), Полифосфаты аммония (Ammonium polyphosphates). Эмульгатор, стабилизатор, комплексообразователь, текстуратор, влагоудерживающий агент. Эмульгатор, стабилизатор, комплексообразователь, текстуратор, влагоудерживающий агент."
+		},
+		{ 
+			"number":"Е459", 
+			"status":"Халяль",
+			"description":"Бета-Циклодекстрин (Beta-cyclodextrin). Стабилизатор, связующее вещество."
+		},
+
+		{ 
+			"number":"Е460", 
+			"status":"Халяль",
+			"description":"Целлюлоза (Cellulose), Целлюлоза (Microcrystalline cellulose), Целлюлоза в порошке (Powdered cellulose). Эмульгатор, микрокристаллическая добавка, препятствующая слеживанию и комкованию."
+		},
+
+		{ 
+			"number":"Е461", 
+			"status":"Халяль",
+			"description":"Метилцеллюлоза (Methyl cellulose). Эмульгатор, загуститель, стабилизатор."
+		},
+		{ 
+			"number":"Е462", 
+			"status":"Халяль",
+			"description":"Этилцеллюлоза (Ethyl cellulose). Наполнитель, связующий агент.."
+		},
+
+		{ 
+			"number":"Е463", 
+			"status":"Халяль",
+			"description":"Гидроксипропилцеллюлоза (Hydroxypropyl cellulose). Эмульгатор, загуститель."
+		},
+
+		{ 
+			"number":"Е464", 
+			"status":"Халяль",
+			"description":"Гидроксипропилметилцеллюлоза (Hydroxypropyl, загуститель, methyl cellulose). Эмульгатор, стабилизатор."
+		},
+		{ 
+			"number":"Е465", 
+			"status":"Халяль",
+			"description":"Метилэтилцеллюлоза (Methyl ethyl cellulose). Загуститель, эмульгатор, стабилизатор, пенообразователь."
+		},
+
+		{ 
+			"number":"Е466", 
+			"status":"Халяль",
+			"description":"Карбоксиметилцеллюлоза натриевая соль (Sodium carboxymethyl cellulose). Загуститель, стабилизатор."
+		},
+
+		{ 
+			"number":"Е467", 
+			"status":"Халяль",
+			"description":"Этилгидроксиэтилцеллюлоза (Ethylhydroxyethyl cellulose). Эмульгатор, загуститель, стабилизатор слеживанию и комкованию."
+		},
+		{ 
+			"number":"Е468", 
+			"status":"Халяль",
+			"description":"Кроскарамеллоза (Croscaramellose). Стабилизатор, связующее вещество."
+		},
+
+		{ 
+			"number":"Е469", 
+			"status":"Халяль",
+			"description":"Карбоксиметилцеллюлоза ферментативно гидролизованная. Загуститель, стабилизатор."
+		},
+
+		{ 
+			"number":"Е471", 
+			"status":"Сомнительное",
+			"description":"Моно-и диглицериды жирных кислот (Mono-and diglycerides of fatty acids). Эмульгатор, стабилизатор. сомнительное. Может быть произведен из животного сырья."
+		},
+		{ 
+			"number":"Е472a", 
+			"status":"Hushbooh",
+			"description":"Глицерина и уксусной и жирных кислот эфиры (Acetic and fatty acid esters of glycerol). Эмульгатор, стабилизатор, комплексообразователь. сомнительное. Может быть произведен из животного сырья."
+		},
+
+		{ 
+			"number":"Е472b", 
+			"status":"Сомнительное",
+			"description":"Глицерина и молочной и жирных кислот эфиры (Lac- tic and fatty acid esters of glycerol). Эмульгатор, стабилизатор, комплексообразователь. сомнительное. Может быть произведен  из животного сырья."
+		},
+
+		{ 
+			"number":"Е472c", 
+			"status":"Сомнительное",
+			"description":"Глицерина и лимонной кислоты и жирных кислот эфиры (Citric and fatty acid esters of glycerol). Эмульгатор, стабилизатор, комплексообразователь. сомнительное. Может быть произведен из животного сырья."
+		},
+		{ 
+			"number":"Е472d", 
+			"status":"Сомнительное",
+			"description":"Моно-и диглицериды жирных кислот и винной кисло- ты, эфиры (Tartaric acid esters of Mono-and diglycerides of fatty acids). Эмульгатор, стабилизатор, комплексообразователь. сомнительное. Может быть произведен из животного сырья."
+		},
+
+		{ 
+			"number":"Е472g", 
+			"status":"Сомнительное",
+			"description":"Моноглицеридов и янтарной кислоты эфиры (Succinylated monoglycerides). Эмульгатор, стабилизатор, комплексообразователь. сомнительное. Может быть произведен из животного сырья."
+		},
+
+		{ 
+			"number":"Е472e", 
+			"status":"Сомнительное",
+			"description":"Глицерина и диацетилвинной и жирных кислот эфиры (Diacetyltartaric and fatty acid esters of glycerol). Эмульгатор, стабилизатор, комплексообразователь. сомнительное. Может быть произведен из животного сырья."
+		},
+		{ 
+			"number":"Е472f", 
+			"status":"Сомнительное",
+			"description":"Глицерина и винной, уксусной и жирных кислот смешанные эфиры (Mixed tartaric, acetic and fatty acid esters of glycerol). Эмульгатор, стабилизатор, комплексообразователь. сомнительное. Может быть произведен из животного сырья."
+		},
+
+		{ 
+			"number":"Е473", 
+			"status":"Сомнительное",
+			"description":"Сахарозы и жирных кислот, эфиры (Sucrose esters of fatty acids). Эмульгатор."
+		},
+
+		{ 
+			"number":"Е474", 
+			"status":"Сомнительное",
+			"description":"Caxapoглицериды (Sucroglycerides). Эмульгатор."
+		},
+		{ 
+			"number":"Е475", 
+			"status":"Сомнительное",
+			"description":"Полиглицерина и жирных кислот эфиры (Polyglycerol esters of fatty acids). Эмульгатор."
+		},
+
+		{ 
+			"number":"Е476", 
+			"status":"Сомнительное",
+			"description":"Полиглицерина и взаимоэтерифицированных рициноловых кислот эфиры (Polyglycerol esters of interesterified ricinoleic acid). Эмульгатор."
+		},
+
+		{ 
+			"number":"Е477", 
+			"status":"Сомнительное",
+			"description":"Пропиленгликоля и жирных кислот эфиры (Propylene glycol esters of fatty acids). Эмульгатор."
+		},
+		{ 
+			"number":"Е478", 
+			"status":"Сомнительное",
+			"description":"Лактилированных жирных кислот глицерина и пропилен-гликоля эфиры (Lactylated fatty esters of glycerol and propylene glycol). Эмульгатор. сомнительное. Может быть произведен из животного сырья."
+		},
+
+		{ 
+			"number":"Е479", 
+			"status":"Сомнительное",
+			"description":"Термически окисленное соевое масло с моно-и диглицеридами жирных кислот (Thermally oxidized soya bean oil with mono-and diglycerides of fatty acids). Эмульгатор.."
+		},
+
+		{ 
+			"number":"Е480", 
+			"status":"Халяль",
+			"description":"Диоктилсульфосукцинат натрия (Dioctyl sodium sulphosuccinate). Эмульгатор, увлажняющий агент."
+		},
+		{ 
+			"number":"Е481", 
+			"status":"Сомнительное",
+			"description":"Лактилаты натрия (Sodium lactylates), Стеароиллактилат натрия (Sodium stearoyl lactylate), Олеиллактилат натрия (Sodium oleyl lactylate monostearate). Эмульгатор, стабилизатор."
+		},
+
+		{ 
+			"number":"Е482", 
+			"status":"Сомнительное",
+			"description":"Лактилаты кальция (Calcium lactylates). Эмульгатор, стабилизатор."
+		},
+
+		{ 
+			"number":"Е483", 
+			"status":"Сомнительное",
+			"description":"Стеарилтартрат (Stearyl tartrate). Улучшитель для муки и хлеба.."
+		},
+		{ 
+			"number":"Е484", 
+			"status":"Сомнительное",
+			"description":"Стеарилцитрат (Stearyl citrate). Эмульгатор, комплексообразователь."
+		},
+
+		{ 
+			"number":"Е485", 
+			"status":"Харам",
+			"description":"Стеароилфумарат  натрия является стабилизатором, сохраняющим и улучшающим вязкость и консистенцию пищевых продуктов. Добавка Е-485 не имеет официального разрешения на использование в пищевой промышленности, так как исследования на её воздействие на организм человека ещё не завершены. Как химическое вещество, стеароилфумарат  натрия имеет структуру белого сыпучего порошка, а применяемое в виде добавки Е485, имеет структуру маслянистого геля либо геля. Е485 используемый в роли эмульгатора способен качественно улучшать пластичные свойства жиров и масел, а так же стабилизировать консистенцию и текстуру многих продуктов имеющих жировую основу."
+		},
+
+		{ 
+			"number":"Е491", 
+			"status":"Сомнительное",
+			"description":"Сорбитан моностеарат, СПЭН 60 (Sorbitan monostearate). Эмульгатор."
+		},
+		{ 
+			"number":"Е492", 
+			"status":"Сомнительное",
+			"description":"Сорбитан тристеарат (Sorbitan tristearate). Эмульгатор."
+		},
+
+		{ 
+			"number":"Е493", 
+			"status":"Сомнительное",
+			"description":"Сорбитан монолаурат, СПЭН 20 (Sorbitan monolaurate). Эмульгатор."
+		},
+
+		{ 
+			"number":"Е494", 
+			"status":"Сомнительное",
+			"description":"Сорбитан моноолеат, СПЭН 80 (Sorbitan monooleate). Эмульгатор."
+		},
+		{ 
+			"number":"Е495", 
+			"status":"Сомнительное",
+			"description":"Сорбитан монопальмитат, СПЭН 40 (Sorbitan monopalmitate). Эмульгатор."
+		},
+
+		{ 
+			"number":"Е496", 
+			"status":"Халяль",
+			"description":"Сорбитан триолеат, СПЭН 85 (Sorbitan trioleat). Эмульгатор, стабилизатор."
+		},
+
+		{ 
+			"number":"Е500", 
+			"status":"Халяль",
+			"description":"Карбонаты натрия (Sodium carbonates), Карбонат натрия (Sodium carbonate), Гидрокарбонат натрия (Sodium hydrogen ca- rbonate), Смесь карбоната и гидрокарбоната натрия (Sodium sesquicarbonate). . Регулятор кислотности, разрыхлитель добавка, препятствующая слеживанию и комкованию."
+		},
+		{ 
+			"number":"Е501", 
+			"status":"Халяль",
+			"description":"Карбонаты калия (Potassium carbonates), Карбонат калия (Potassium carbonate), Гидрокарбонат калия (Potassium hydrogen carbonate). Регулятор кислотности, стабилизатор."
+		},
+
+		{ 
+			"number":"Е503", 
+			"status":"Халяль",
+			"description":"Карбонаты аммония (Ammonium carbonates), Карбонат аммония (Ammonium carbonate), Гидрокарбонат аммония (Ammonium hydrogen carbonate). Регулятор кислотности, разрыхлитель. "
+		},
+
+		{ 
+			"number":"Е504", 
+			"status":"Халяль",
+			"description":"Карбонаты магния (Magnesium carbonates), Карбонат магния (Magnesium carbonate), Гидрокарбонат магния (Magnesium hydrogen carbonate). Регулятор кислотности, добавка, препятствующая слеживанию и комкованию, стабилизатор цвета."
+		},
+		{ 
+			"number":"Е505", 
+			"status":"Халяль",
+			"description":"Карбонат железа (Ferrous carbonat). Регулятор кислотности."
+		},
+
+		{ 
+			"number":"Е507", 
+			"status":"Халяль",
+			"description":"Соляная кислота (Hydrochloric acid). Регулятор кислотности."
+		},
+
+		{ 
+			"number":"Е508", 
+			"status":"Халяль",
+			"description":"Хлорид калия (Potassium chloride). Желирующий агент."
+		},
+		{ 
+			"number":"Е509", 
+			"status":"Халяль",
+			"description":"Хлорид кальция (Calcium chloride). Отвердитель."
+		},
+
+		{ 
+			"number":"Е510", 
+			"status":"Халяль",
+			"description":"Хлорид аммония (Ammonium chloride). Улучшитель для муки и хлеба."
+		},
+
+		{ 
+			"number":"Е511", 
+			"status":"Халяль",
+			"description":"Хлорид магния (Magnesium chloride). Отвердитель."
+		},
+		{ 
+			"number":"Е513", 
+			"status":"Халяль",
+			"description":"Серная кислота (Sulphuric acid). Регулятор кислотности."
+		},
+
+		{ 
+			"number":"Е514", 
+			"status":"Халяль",
+			"description":"Сульфаты натрия (Sodium sulphates). Регулятор кислотности."
+		},
+
+		{ 
+			"number":"Е515", 
+			"status":"Халяль",
+			"description":"Сульфаты калия (Potassium sulphates). Регулятор кислотности."
+		},
+		{ 
+			"number":"Е516", 
+			"status":"Халяль",
+			"description":"Сульфаты кальция (Calcium sulphate). Улучшитель муки и хлеба, комплексообразователь, отвердитель."
+		},
+
+		{ 
+			"number":"Е517", 
+			"status":"Халяль",
+			"description":"Сульфаты аммония (Ammonium sulphate). Улучшитель муки и хлеба, стабилизатор."
+		},
+
+		{ 
+			"number":"Е518", 
+			"status":"Халяль",
+			"description":"Сульфаты магния (Magnesium sulphate). Отвердитель."
+		},
+		{ 
+			"number":"Е519", 
+			"status":"Халяль",
+			"description":"Сульфат меди (Cupric sulphate). Фиксатор цвета, консервант. "
+		},
+
+		{ 
+			"number":"Е520", 
+			"status":"Халяль",
+			"description":"Сульфат алюминия (Aluminium sulphate). Отвердитель."
+		},
+
+		{ 
+			"number":"Е521", 
+			"status":"Халяль",
+			"description":"Сульфат алюминия-натрия, квасцы алюмонатриевые (Аluminium sodium sulphate). Отвердитель."
+		},
+		{ 
+			"number":"Е522", 
+			"status":"Халяль",
+			"description":"Сульфат алюминия-калия, квасцы алюмокалиевые (Аluminium potassium sulphate). Регулятор кислотности, стабилизатор."
+		},
+
+		{ 
+			"number":"Е523", 
+			"status":"Халяль",
+			"description":"Сульфат алюминия-аммония, квасцы алюмоаммиачные (Аluminium ammonium sulphate). Стабилизатор, отвердитель."
+		},
+
+		{ 
+			"number":"Е524", 
+			"status":"Халяль",
+			"description":"Гидроксид натрия (Sodium hydroxide). Регулятор кислотности."
+		},
+		{ 
+			"number":"Е525", 
+			"status":"Халяль",
+			"description":"Гидроксид калия (Potassium hydroxide). Регулятор кислотности."
+		},
+		{ 
+			"number":"Е526", 
+			"status":"Халяль",
+			"description":"Гидроксид кальция (Calcium hydroxide). Регулятор кислотности, отвердитель."
+		},
+
+		{ 
+			"number":"Е527", 
+			"status":"Халяль",
+			"description":"Гидроксид аммония (Ammonium hydroxide). Регулятор кислотности."
+		},
+
+		{ 
+			"number":"Е528", 
+			"status":"Халяль",
+			"description":"Гидроксид магния (Magnesium hydroxide). Регулятор кислотности, стабилизатор цвета, регулятор кислотности, стабилизатор цвета."
+		},
+		{ 
+			"number":"Е529", 
+			"status":"Халяль",
+			"description":"Оксид кальция (Calcium oxide). Регулятор кислотности, улучшитель муки и хлеба."
+		},
+
+		{ 
+			"number":"Е530", 
+			"status":"Халяль",
+			"description":"Оксид магния (Magnesium oxide). Добавка, препятствующая слеживанию и комкованию."
+		},
+
+		{ 
+			"number":"Е535", 
+			"status":"Халяль",
+			"description":"Ферроцианид натрия (Sodium ferrocyamde). Добавка, препятствующая слеживанию и комкованию."
+		},
+		{ 
+			"number":"Е536", 
+			"status":"Халяль",
+			"description":"Ферроцианид калия (Potassium ferrocyanide). Добавка, препятствующая слеживанию и комкованию."
+		},
+
+		{ 
+			"number":"Е538", 
+			"status":"Халяль",
+			"description":"Ферроцианид кальция (Calcium ferrocyanide). Добавка, препятстауюшая"
+		},
+
+		{ 
+			"number":"Е539", 
+			"status":"Халяль",
+			"description":"Тиосульфат натрия (Sodium thiosulphate). Антиокислитель,комплексообразователь."
+		},
+		{ 
+			"number":"Е541", 
+			"status":"Халяль",
+			"description":"Алюмофосфат натрия (Sodium aluminium phosphate), Кислотный (Acidis), Основной (Basic). Регулятор кислотности, эмульгатор."
+		},
+
+		{ 
+			"number":"Е542", 
+			"status":"Харам",
+			"description":"Фосфат костный (фосфат кальция) (Bone phosphate) (es- sentiale Calcium phosphate tribasic). Эмульгатор, добавка, пре- пятствующая слеживанию и комкованию, влагоудерживающий агент. харам. Производится из костей."
+		},
+
+		{ 
+			"number":"Е550", 
+			"status":"Халяль",
+			"description":"Силикаты натрия (Sodium silicates), Силикат натрия (Sodium silicate), Мета-cиликат натрия (Sodium metasilicate). Добавка, препятствующая слеживанию и комкованию."
+		},
+		{ 
+			"number":"Е551", 
+			"status":"Халяль",
+			"description":"Диоксид кремния аморфный (Silicon dioxide amorphous). Добавка, препятствующая слеживанию и комкованию."
+		},
+
+		{ 
+			"number":"Е552", 
+			"status":"Халяль",
+			"description":"Силикат кальция (Calcium silicate). Добавка, препятствующая слеживанию и комкованию."
+		},
+
+		{ 
+			"number":"Е553", 
+			"status":"Халяль",
+			"description":"Силикаты магния (Magnesium silicates), Силикат магния (Magnesium silicate), Трисиликат магния (Magnesium trisilicate), Тальк (Talc). Добавка, препятствующая слеживанию и комкованию."
+		},
+		{ 
+			"number":"Е554", 
+			"status":"Халяль",
+			"description":"Алюмосиликат натрия (Sodium aluminosilicat). Добавка, препятствующая слеживанию и комкованию."
+		},
+
+		{ 
+			"number":"Е555", 
+			"status":"Халяль",
+			"description":"Алюмосиликат калия (Potassium aluminium silicate). Добавка, препятствующая слеживанию и комкованию."
+		},
+
+		{ 
+			"number":"Е556", 
+			"status":"Халяль",
+			"description":"Алюмосиликат кальция (Calcium aluminium silicate). Добавка, препятствующая слеживанию и комкованию."
+		},
+		{ 
+			"number":"Е558", 
+			"status":"Халяль",
+			"description":"Бентонит (Bentonite). Добавка, препятствующая слеживанию и комкованию."
+		},
+
+		{ 
+			"number":"Е559", 
+			"status":"Халяль",
+			"description":"Алюмосиликат (Aluminium silicate). Добавка, препятствующая слеживанию и комкованию."
+		},
+
+		{ 
+			"number":"Е560", 
+			"status":"Халяль",
+			"description":"Силикат калия (Potassium silicate). Добавка, препятствующая слеживанию и комкованию."
+		},
+		{ 
+			"number":"Е570", 
+			"status":"Халяль",
+			"description":"Жирные кислоты (Fatty acids). Стабилизатор пены, глазирователь, пеногаситель."
+		},
+		{ 
+			"number":"Е574", 
+			"status":"Халяль",
+			"description":"Глюконовая кислота (D-) (Gluconic acid (D-). Регулятор кислотности, разрыхлитель."
+		},
+
+		{ 
+			"number":"Е575", 
+			"status":"Халяль",
+			"description":"Глюконо-дельта лактон (Glucono delta-lactone). Регулятор кислотности, разрыхлитель."
+		},
+
+		{ 
+			"number":"Е576", 
+			"status":"Халяль",
+			"description":"Глюконат натрия (Sodium gluconate). Комплексообразователь."
+		},
+		{ 
+			"number":"Е577", 
+			"status":"Халяль",
+			"description":"Глюконат калия (Potassium gluconate). Комплексообразователь."
+		},
+
+		{ 
+			"number":"Е578", 
+			"status":"Халяль",
+			"description":"Глюконат кальция (Calcium gluconate). Регулятор кислотности, отвердитель."
+		},
+
+		{ 
+			"number":"Е579", 
+			"status":"Халяль",
+			"description":"Глюконат железа (Ferrous gluconate). Стабилизатор окраски."
+		},
+		{ 
+			"number":"Е580", 
+			"status":"Халяль",
+			"description":"Глюконат магния (Magnesium gluconate). Регулятор кислотности, отвердитель."
+		},
+
+		{ 
+			"number":"Е585", 
+			"status":"Халяль",
+			"description":"Лактат железа (Ferrous lactate). Стабилизатор окраски."
+		},
+
+		{ 
+			"number":"Е620", 
+			"status":"Халяль",
+			"description":"Глутаминовая кислота, L(+) (Glutamic acid, L(+). Усилитель вкуса и аромата."
+		},
+		{ 
+			"number":"Е621", 
+			"status":"Халяль",
+			"description":"Глутамат натрия 1-замещенный (Monosodium glutamate). Усилитель вкуса и аромата."
+		},
+
+		{ 
+			"number":"Е622", 
+			"status":"Халяль",
+			"description":"Глутамат калия 1-замещенный (Monopotassium Glutamate). Усилитель вкуса и аромата."
+		},
+
+		{ 
+			"number":"Е623", 
+			"status":"Халяль",
+			"description":"Глутамат кальция (Calcium glutamate). Усилитель вкуса и аромата."
+		},
+		{ 
+			"number":"Е624", 
+			"status":"Халяль",
+			"description":"Глутамат аммония 1-замещенный (Monoammonium glutamate). Усилитель вкуса и аромата."
+		},
+
+		{ 
+			"number":"Е625", 
+			"status":"Халяль",
+			"description":"Глутамат магния (Magnesium glutamate). Усилитель вкуса и аромата."
+		},
+
+		{ 
+			"number":"Е626", 
+			"status":"Халяль",
+			"description":"Гуаниловая кислота (Guanylic acid). Усилитель вкуса и аромата."
+		},
+		{ 
+			"number":"Е627", 
+			"status":"Халяль",
+			"description":"5-Гуанилат натрия 2-замещенный (Disodium 5-guanylate). Усилитель вкуса и аромата."
+		},
+
+		{ 
+			"number":"Е628", 
+			"status":"Халяль",
+			"description":"5-Гуанилат калия 2-замещенный (Dipotassium S-guanylate). Усилитель вкуса и аромата."
+		},
+
+		{ 
+			"number":"Е629", 
+			"status":"Халяль",
+			"description":"5-Гуанилат кальция (Calcium 5-guanylate). Усилитель вкуса и аромата."
+		},
+		{ 
+			"number":"Е630", 
+			"status":"Халяль",
+			"description":"Инозиновая кислота (Inosimc acid). Усилитель вкуса и аромата."
+		},
+
+		{ 
+			"number":"Е631", 
+			"status":"Халяль",
+			"description":"5-Инозинат натрия 2-замещенный (Disodium 5-inosinate). Усилитель вкуса и аромата."
+		},
+
+		{ 
+			"number":"Е632", 
+			"status":"Халяль",
+			"description":"Инозинат калия (Potassium inosinate). Усилитель вкуса и аромата."
+		},
+		{ 
+			"number":"Е633", 
+			"status":"Халяль",
+			"description":"5-Инозинат кальция (Calcium 5-inosinate). Усилитель вкуса и аромата."
+		},
+		{ 
+			"number":"Е634", 
+			"status":"Халяль",
+			"description":"5-Рибонуклеотиды кальция (Calcium 5-ribonucleotides). Усилитель вкуса и аромата."
+		},
+
+		{ 
+			"number":"Е635", 
+			"status":"Халяль",
+			"description":"5-Рибонуклеотиды натрия 2-замещенные (Disodium 5-rib-onucleotides). Усилитель вкуса и аромата."
+		},
+
+		{ 
+			"number":"Е636", 
+			"status":"Халяль",
+			"description":"Мальтол (Maltol). Усилитель вкуса и аромата."
+		},
+		{ 
+			"number":"Е637", 
+			"status":"Халяль",
+			"description":"Этилмальтол (Ethyl maltol). Усилитель вкуса и аромата."
+		},
+
+		{ 
+			"number":"Е640", 
+			"status":"Халяль",
+			"description":"Глицин (Glycine). Модификатор вкуса и аромата."
+		},
+
+		{ 
+			"number":"Е641", 
+			"status":"Халяль",
+			"description":"L-Лейцин (L-Leucine). Модификатор вкуса и аромата."
+		},
+		{ 
+			"number":"Е642", 
+			"status":"Халяль",
+			"description":"Лизин гидрохлорид (Lysin hydrochlorid). Усилитель вкуса и аромата."
+		},
+
+		{ 
+			"number":"Е900", 
+			"status":"Халяль",
+			"description":"Полидиметилсилоксан (Polydimethylsiloxane). Пеногаситель, эмульгатор, добавка, препятствующая слеживанию и комкованию."
+		},
+
+		{ 
+			"number":"Е901", 
+			"status":"Халяль",
+			"description":"Воск пчелиный, белый и желтый (Beeswax white and yellow). Глазирователь, разделитель."
+		},
+		{ 
+			"number":"Е902", 
+			"status":"Халяль",
+			"description":"Воск свечной (Candelilla wax). Глазирователь."
+		},
+
+		{ 
+			"number":"Е903", 
+			"status":"Халяль",
+			"description":"Воск карнаубский (Carnauba wax). Глазирователь."
+		},
+
+		{ 
+			"number":"Е904", 
+			"status":"Харам",
+			"description":"Шеллак (Shellac). Глазирователь. харам. Призводится из насекомых."
+		},
+		{ 
+			"number":"Е905a", 
+			"status":"Халяль",
+			"description":"Вазелиновое масло «пищевое» (Mineral oil food grade). Глазирователь, разделитель, герметик."
+		},
+
+		{ 
+			"number":"Е905b", 
+			"status":"Халяль",
+			"description":"Вазелин (Petrolatum). Глазирователь, разделитель, герметик."
+		},
+
+		{ 
+			"number":"Е905c", 
+			"status":"Халяль",
+			"description":"Парафин (Petroleum wax), Микрокристаллический воск (Microcrystalline wax), Парафиновый воск (Paraffin wax). Глазирователь, разделитель, герметик."
+		},
+		{ 
+			"number":"Е906", 
+			"status":"Халяль",
+			"description":"Бензойная смола (Benzoin gum). Глазирователь."
+		},
+
+		{ 
+			"number":"Е908", 
+			"status":"Халяль",
+			"description":"Воск рисовых отрубей (Rice bran wax). Глазирователь."
+		},
+
+		{ 
+			"number":"Е909", 
+			"status":"Халяль",
+			"description":"Спермацетовый воск (Spermaceti wax). Глазирователь."
+		},
+		{ 
+			"number":"Е910", 
+			"status":"Халяль",
+			"description":"Восковые эфиры (Wax esters). Глазирователь."
+		},
+
+		{ 
+			"number":"Е913", 
+			"status":"Халяль",
+			"description":"Ланолин (Lanolin). Глазирователь."
+		},
+
+		{ 
+			"number":"Е920", 
+			"status":"Харам",
+			"description":"Цистеин, L- и его гидрохлориды - натриевая и калиевая соли (Cysteine, L-, and its hydrochlorides-sodium and potassium salts). Улучшитель муки и хлеба. харам. Производится из волос человека, шерсти животных и пера курицы."
+		},
+		{ 
+			"number":"Е921", 
+			"status":"Халяль",
+			"description":"Цистин, L-, и его гидрохлориды - натриевая и калиевая соли (Cystine, L-, and its hydrochlorides -sodium and potassium salts). Улучшитель муки и хлеба. харам. Производится из волос человека, шерсти животных и пера курицы."
+		},
+		{ 
+			"number":"Е927a", 
+			"status":"Халяль",
+			"description":"Азодикарбонамид (Azodicarbonamide). Улучшитель муки и хлеба."
+		},
+
+		{ 
+			"number":"Е927b", 
+			"status":"Халяль",
+			"description":"Карбамид (мочевина) (Carbamide (urea). Текстуратор."
+		},
+
+		{ 
+			"number":"Е928", 
+			"status":"Халяль",
+			"description":"Перекись бензоила (Benzoyl peroxide). Улучшитель муки и хлеба, консервант."
+		},
+		{ 
+			"number":"Е930", 
+			"status":"Халяль",
+			"description":"Перекись кальция (Calcium peroxide). Улучшитель муки и хлеба."
+		},
+
+		{ 
+			"number":"Е938", 
+			"status":"Халяль",
+			"description":"Желтый хинолиновый (Quinoline Yellow). Краситель."
+		},
+
+		{ 
+			"number":"Е939", 
+			"status":"Халяль",
+			"description":"Гелий (Gellium). Пропеллент, упаковочный газ."
+		},
+		{ 
+			"number":"Е940", 
+			"status":"Халяль",
+			"description":"Дихлордифторметан, (хладон-12) (Dichlorodifluoromethane). Пропеллент, хладагент."
+		},
+
+		{ 
+			"number":"Е941", 
+			"status":"Халяль",
+			"description":"Азот (Nitrogen). Газовая среда для упаковки и хранения, хладагент."
+		},
+
+		{ 
+			"number":"Е942", 
+			"status":"Халяль",
+			"description":"Закись азота (Nitrous oxide). Пропеллент, упаковочный газ."
+		},
+		{ 
+			"number":"Е943a", 
+			"status":"Халяль",
+			"description":"Бутан (Butane). Пропеллент."
+		},
+
+		{ 
+			"number":"Е943b", 
+			"status":"Халяль",
+			"description":"Изобутан (Isobutane). Пропеллент."
+		},
+
+		{ 
+			"number":"Е944", 
+			"status":"Халяль",
+			"description":"Пропан (Propane). Пропеллент."
+		},
+		{ 
+			"number":"Е945", 
+			"status":"Халяль",
+			"description":"Хлорпентафторэтан (Chloropentafluoroethane). Пропеллент."
+		},
+
+		{ 
+			"number":"Е946", 
+			"status":"Халяль",
+			"description":"Октафторциклобутан (Octafluorocyclobutane). Пропеллент."
+		},
+
+		{ 
+			"number":"Е948", 
+			"status":"Халяль",
+			"description":"Кислород (Oxygen). Пропеллент, упаковочный газ."
+		},
+		{ 
+			"number":"Е950", 
+			"status":"Халяль",
+			"description":"Ацесульфам калия (Acesulfame potassium). Подсластитель."
+		},
+
+		{ 
+			"number":"Е951", 
+			"status":"Сомнительное",
+			"description":"Аспартам (Aspartame). Подсластитель, усилитель вкуса и аромата. сомнительное. Не рекомендуется беременным женщинам и кормящим матерям. Противопоказан при фенилкетонурии."
+		},
+
+		{ 
+			"number":"Е952", 
+			"status":"Халяль",
+			"description":"Цикламовая кислота и ее натриевая, калиевая и кальциевая соли (Cyclamic acid and Na, К, Са salts). Подсластитель."
+		},
+		{ 
+			"number":"Е953", 
+			"status":"Халяль",
+			"description":"Изомальт, изомальтит (Isomalt, isomaltitol). Подсластитель, добавка, препятствующая слеживанию и комкованию, наполнитель, глазирующий агент."
+		},
+
+		{ 
+			"number":"Е954", 
+			"status":"Халяль",
+			"description":"Сахарин (натриевая, калиевая, кальциевая соли) (Saccharin and Na, K, Ca salts). Подсластитель."
+		},
+
+		{ 
+			"number":"Е955", 
+			"status":"Халяль",
+			"description":"Сукралоза (трихлоргалактосахароза) (Sucralose (Trichlorogalactosucrose). Подсластитель."
+		},
+		{ 
+			"number":"Е957", 
+			"status":"Халяль",
+			"description":"Тауматин (Thaumatin). Подсластитель, усилитель вкуса и аромата."
+		},
+		{ 
+			"number":"Е958", 
+			"status":"Халяль",
+			"description":"Глицирризин (Glycyrrhizin). Подсластитель, усилитель вкуса и аромата."
+		},
+
+		{ 
+			"number":"Е959", 
+			"status":"Халяль",
+			"description":"Неогесперидин дигидрохалкон (Neohesperidine dihydrochalcone). Подсластитель."
+		},
+
+		{ 
+			"number":"Е960", 
+			"status":"Халяль",
+			"description":"Стевиозид (Stevioside). Подсластитель."
+		},
+		{ 
+			"number":"Е962", 
+			"status":"Халяль",
+			"description":"Твинсвит (Twinsweet). Подсластитель."
+		},
+
+		{ 
+			"number":"Е965", 
+			"status":"Халяль",
+			"description":"Мальтит и мальтитный сироп (Maltitol and maltitol syrup). Подсластитель, стабилизатор, эмульгатор."
+		},
+
+		{ 
+			"number":"Е966", 
+			"status":"Халяль",
+			"description":"Лактит (Lactitol). Подсластитель, текстуратор."
+		},
+		{ 
+			"number":"Е967", 
+			"status":"Халяль",
+			"description":"Ксилит (Xylitol). Подсластитель, влагоудерживающий агент, стабилизатор, эмульгатор."
+		},
+
+		{ 
+			"number":"Е999", 
+			"status":"Халяль",
+			"description":"Квиллайи экстракт (Quillaia extracts). Пенообразователь."
+		},
+
+		{ 
+			"number":"Е1000", 
+			"status":"Харам",
+			"description":"Холевая кислота (Cholic acid). Эмульгатор."
+		},
+		{ 
+			"number":"Е400", 
+			"status":"Халяль",
+			"description":"Холин, соли и эфиры (Choline salts and esters). Эмульгатор."
+		},
+
+		{ 
+			"number":"Е1001", 
+			"status":"Харам",
+			"description":"Желтый хинолиновый (Quinoline Yellow). Краситель."
+		},
+
+		{ 
+			"number":"Е1100", 
+			"status":"Харам",
+			"description":"Амилазы (Amylases). Улучшитель муки и хлеба."
+		},
+		{ 
+			"number":"Е1101", 
+			"status":"Харам",
+			"description":"Протеазы (Proteases), Протеаза (Protease), Папаин (Pa- pain), Бромелайн (Bromelain). Фицин (Ficin). Улучшитель муки и хлеба, стабилизатор, ускоритель созревания мяса и рыбы, уси- литель вкуса и аромата."
+		},
+
+		{ 
+			"number":"Е1102", 
+			"status":"Харам",
+			"description":"Глюкозооксидаза (Glucose oxidase). Антиокислитель."
+		},
+		{ 
+			"number":"Е1103", 
+			"status":"Харам",
+			"description":"Инвертазы (Invertases). Стабилизатор."
+		},
+
+		{ 
+			"number":"Е1104", 
+			"status":"Харам",
+			"description":"Липазы (Lipases). Усилитель вкуса и аромата."
+		},
+
+		{ 
+			"number":"Е1105", 
+			"status":"Харам",
+			"description":"Лизоцим (Lysozyme). консервант."
+		},
+		{ 
+			"number":"Е1200", 
+			"status":"Харам",
+			"description":"Полидекстрозы А и N (Polydextroses A and N). Наполнитель, стабилизатор, загуститель, влагоудерживающий агент, текстуратор."
+		},
+
+		{ 
+			"number":"Е1201", 
+			"status":"Халяль",
+			"description":"Поливинилпирролидон (Polyvinylpyrrolidone). Загуститель, стабилизатор, осветлитель, диспергирующий агент."
+		},
+
+		{ 
+			"number":"Е1202", 
+			"status":"Халяль",
+			"description":"Поливинилполипирролидон (Poeyvinylpolypyrrolidone). Стабилизатор цвета, коллоидальный стабилизатор."
+		},
+		{ 
+			"number":"Е1400", 
+			"status":"Халяль",
+			"description":"Декстрины, крахмал, обработанный термически, белый и желтый (Dextrjns, roasted starch, white and yellow). Стабилизатор, загуститель, связующее."
+		},
+		{ 
+			"number":"Е1401", 
+			"status":"Халяль",
+			"description":"Крахмал, обработанный кислотой (Acid-treated starch). Стабилизатор, загуститель, связующее."
+		},
+
+		{ 
+			"number":"Е1402", 
+			"status":"Халяль",
+			"description":"Крахмал, обработанный щелочью (Alkaline-стабилизатор, treated starch). Стабилизатор, загуститель, связующее."
+		},
+
+		{ 
+			"number":"Е1403", 
+			"status":"Халяль",
+			"description":"Крахмал отбеленный (Bleached starch). Стабилизатор, загуститель, связующее."
+		},
+		{ 
+			"number":"Е1404", 
+			"status":"Халяль",
+			"description":"Крахмал окисленный (Oxidized starch). Стабилизатор, загуститель, связующее."
+		},
+
+		{ 
+			"number":"Е1405", 
+			"status":"Халяль",
+			"description":"Крахмал, обработанный ферментными препаратами (Starches enzime-treated). Стабилизатор, загуститель, связующее."
+		},
+
+		{ 
+			"number":"Е1410", 
+			"status":"Халяль",
+			"description":"Монокрахмалфосфат (Monostarch phosphate). Стабилизатор, загуститель, связующее."
+		},
+		{ 
+			"number":"Е1411", 
+			"status":"Халяль",
+			"description":"Дикрахмалглицерин «сшитый» (Distarh glicerol). Стабилизатор, загуститель."
+		},
+
+		{ 
+			"number":"Е1412", 
+			"status":"Халяль",
+			"description":"Дикрахмалфосфат, этерифицированный тринатрийме- тафосфатом; этерифицированный хлорокисью фосфора (Distarch phosphate esterified with sodium trimetasphosphate; esterified with phosphorus oxychlo-ride). Стабилизатор, загуститель, связующее."
+		},
+
+		{ 
+			"number":"Е1413", 
+			"status":"Халяль",
+			"description":"Фосфатированный дикрахмалфосфат «сшитый» (Phosphated distarch phosphate). Стабилизатор, загуститель, связующее."
+		},
+		{ 
+			"number":"Е1414", 
+			"status":"Халяль",
+			"description":"Дикрахмалфосфат ацетилированный «сшитый» (Acetylated distarch phosphate). Эмульгатор, загуститель."
+		},
+
+		{ 
+			"number":"Е1420", 
+			"status":"Халяль",
+			"description":"Крахмал ацетатный, этерифицированный уксусным ан- гидридом (Starch acetate esterified with acetic anhydride). Стабилизатор, загуститель."
+		},
+
+		{ 
+			"number":"Е1421", 
+			"status":"Халяль",
+			"description":"Крахмал ацетатный, этерифицированный винилацетатом (Starch acetate esterified with vinyl acetate). Стабилизатор, загуститель."
+		},
+		{ 
+			"number":"Е1422", 
+			"status":"Халяль",
+			"description":"Дикрахмаладипат ацетилированный (Acetylated distarch adipate). Стабилизатор, загуститель, связующее."
+		},
+
+		{ 
+			"number":"Е1423", 
+			"status":"Халяль",
+			"description":"Дикрахмалглицерин ацетилированный (Acetylated distarch glycerol). Стабилизатор, загуститель, связующее"
+		},
+
+		{ 
+			"number":"Е1440", 
+			"status":"Халяль",
+			"description":"Крахмал оксипропилированный (Hydroxypropyl starch). Эмульгатор, загуститель, связующее."
+		},
+		{ 
+			"number":"Е1442", 
+			"status":"Халяль",
+			"description":"Дикрахмалфосфат оксипропилированный «сшитый» (Hydroxypropyl distarch phosphate). Стабилизатор, загуститель."
+		},
+
+		{ 
+			"number":"Е1443", 
+			"status":"Халяль",
+			"description":"Дикрахмалглицерин оксипропилированный (Hydroxypropyl distarch glycerol). Стабилизатор, загуститель."
+		},
+
+		{ 
+			"number":"Е1450", 
+			"status":"Халяль",
+			"description":"Крахмала и натриевой соли октенилянтарной кислоты эфир (Starch sodium octenyl succinate). Стабилизатор, загуститель, связующее, эмульгатор."
+		},
+		{ 
+			"number":"Е1451", 
+			"status":"Халяль",
+			"description":"Крахмал ацетилированный окисленный (Acetilated oxydised starch). Эмульгатор, загуститель."
+		},
+
+		{ 
+			"number":"Е1503", 
+			"status":"Халяль",
+			"description":"Касторовое масло (Castor oil). Разделяющий агент."
+		},
+
+		{ 
+			"number":"Е1505", 
+			"status":"Халяль",
+			"description":"Триэтилцитрат (Triethyl citrate). Пенообразователь."
+		},
+		{ 
+			"number":"Е1518", 
+			"status":"Халяль",
+			"description":"Триацетин (Triacetin). Влагоудерживающий агент."
+		},
+		{ 
+			"number":"Е1520", 
+			"status":"Халяль",
+			"description":"Пропиленгликоль (Propylene glycol). Влагоудерживающий, смягчающий и диспергирующий агент."
+		},
+		{ 
+			"number":"Е1521", 
+			"status":"Халяль",
+			"description":"Полиэтиленгликоль (Polyethylene glycol). Пеногаситель."
+		},
+		{ 
+			"number":"Хитозан", 
+			"status":"Харам",
+			"description":"хитозан, гидрохлорид хитозония: Наполнитель, загуститель, стабилизатор. харам."
+		}, 
+	]
+}
